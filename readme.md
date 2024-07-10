@@ -33,3 +33,9 @@ Listes des choses qui pourraient être améliorer dans ce code :
 
 - Injecter les dépendances plutôt que des les créer dans la méthode OrderProcessor
 - La méthode processOrder fait plusieurs taches, il faudrait séparer les taches en différntes méthodes
+
+# Question 5
+
+## Place au kata ! Votre dernier (dans le langage de votre choix)
+
+Voir code ./Exo5
