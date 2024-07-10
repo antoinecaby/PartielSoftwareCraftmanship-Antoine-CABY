@@ -23,6 +23,8 @@ Un code propre est un code qui valides plusieurs règles :
 
 ## De votre expérience de l’agilité en entreprise, en vous basant sur les piliers du manifeste vu en cours. Que pourriez vous améliorer dans la gestion de vos projets ?
 
+Je pense que je pourrais gagner beaucoup de temps sur la livraison de projet si je fonctionnais davantage avec la méthode T.D.D., en effet je perd un temps considérable à tester le code que j'écris.
+
 # Question 4
 
 ## Aie aie aie, l’équipe a reçu un nouveau ticket métier pour notre gestion des achats durant vos congés, évidemment, ils ont du chiffrer tout ça et réduire le temps initialement demandé. Vous rentrez donc de congés et voyez un ticket :
